@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<manifest>
+  <control namespace="LabelToolTipControl" constructor="LabelToolTipControl" version="0.0.7" display-name-key="LabelToolTipControl" description-key="LabelToolTipControl description" control-type="standard" >
+    <external-service-usage enabled="false">
+      
+    </external-service-usage>
+     <property name="controlLabel" display-name-key="controlLabelKey" description-key="controlLabelDesc" of-type="SingleLine.Text" usage="bound" required="true" />
+     <property name="FieldLogicalName" display-name-key="FieldLogicalName" description-key="FieldLogicalName" of-type="SingleLine.Text" usage="input" required="true"/>
+     <property name="isRequired" display-name-key="isRequired" description-key="isRequired" of-type="TwoOptions" usage="input" default-value="false" />
+     <property name="FieldLabel" display-name-key="FieldLabel" description-key="FieldLabel" of-type="SingleLine.Text" usage="input" required="true" />
+     <property name="TooltipsContent" display-name-key="TooltipsContent" description-key="TooltipsContent" of-type="Multiple" usage="input" required="true" />
+     <property name="Image1Base64" display-name-key="Image1Base64" description-key="Image1Base64" of-type="Multiple" usage="input" required="false"/>
+     <property name="Image2Base64" display-name-key="Image2Base64" description-key="Image2Base64" of-type="Multiple" usage="input" required="false"/>
+    <resources>
+      <code path="index.ts" order="1"/>
+    </resources>
+   </control>
+</manifest>

@@ -1,0 +1,11 @@
+{
+    "outDir": "./out/controls",
+    "packages": [],
+    "namespace": "o365m",
+    "rmsDevAccount": "",
+    "logLevel": 5,
+    "externals": {
+        "react": "node_modules/react/umd/react.development.js",
+        "react-dom": "node_modules/react-dom/umd/react-dom.development.js"
+    }
+}
