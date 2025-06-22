@@ -1,0 +1,2 @@
+D:\Work\SIA\LabelToolTipControl\LabelTooltipsPCFSolution\obj\Debug\LabelTooltipsPCFSolution.cdsproj.AssemblyReference.cache
+D:\Work\SIA\LabelToolTipControl\LabelTooltipsPCFSolution\obj\Debug\LabelTooltipsPCFSolution.cdsproj.CoreCompileInputs.cache

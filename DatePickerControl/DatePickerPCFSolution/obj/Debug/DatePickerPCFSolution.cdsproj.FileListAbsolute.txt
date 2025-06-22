@@ -1,0 +1,2 @@
+D:\Work\SIA\DatePickerControl\DatePickerPCFSolution\obj\Debug\DatePickerPCFSolution.cdsproj.AssemblyReference.cache
+D:\Work\SIA\DatePickerControl\DatePickerPCFSolution\obj\Debug\DatePickerPCFSolution.cdsproj.CoreCompileInputs.cache

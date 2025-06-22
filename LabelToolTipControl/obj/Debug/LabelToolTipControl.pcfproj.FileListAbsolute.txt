@@ -1,0 +1,2 @@
+D:\Work\SIA\LabelToolTipControl\obj\Debug\LabelToolTipControl.pcfproj.AssemblyReference.cache
+D:\Work\SIA\LabelToolTipControl\obj\Debug\LabelToolTipControl.pcfproj.CoreCompileInputs.cache

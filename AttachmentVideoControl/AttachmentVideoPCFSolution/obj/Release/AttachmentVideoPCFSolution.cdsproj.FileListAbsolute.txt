@@ -1,0 +1,2 @@
+D:\Work\SIA\AttachmentVideoControl\AttachmentVideoPCFSolution\obj\Release\AttachmentVideoPCFSolution.cdsproj.AssemblyReference.cache
+D:\Work\SIA\AttachmentVideoControl\AttachmentVideoPCFSolution\obj\Release\AttachmentVideoPCFSolution.cdsproj.CoreCompileInputs.cache

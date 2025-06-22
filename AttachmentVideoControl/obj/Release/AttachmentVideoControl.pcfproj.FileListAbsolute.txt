@@ -1,0 +1,2 @@
+D:\Work\SIA\AttachmentVideoControl\obj\Release\AttachmentVideoControl.pcfproj.AssemblyReference.cache
+D:\Work\SIA\AttachmentVideoControl\obj\Release\AttachmentVideoControl.pcfproj.CoreCompileInputs.cache

@@ -1,0 +1,2 @@
+D:\Work\SIA\ImageViewerPCF\ImageViewerPCFSolution\obj\Debug\ImageViewerPCFSolution.cdsproj.AssemblyReference.cache
+D:\Work\SIA\ImageViewerPCF\ImageViewerPCFSolution\obj\Debug\ImageViewerPCFSolution.cdsproj.CoreCompileInputs.cache

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<manifest>
+  <control namespace="AttachmentVideoControl" constructor="AttachmentVideoControl" version="0.3.4" display-name-key="AttachmentVideoControl" description-key="AttachmentVideoControl description" control-type="standard" api-version="1.3.16">
+    <external-service-usage enabled="true">
+      <domain>unpkg.com</domain>
+    </external-service-usage>
+    <property name="defectTempId" display-name-key=" Defect Temp ID to save the images base64 to Notes table" description-key="Defect tempId" of-type="SingleLine.Text" usage="bound" required="true"/>
+    <property name="debugMode" display-name-key="debugMode" description-key="Able access to debug mode" of-type="TwoOptions" usage="input" required="false" default-value="false"/>
+    <resources>
+      <code path="bundle.js" order="1"/>
+    </resources>
+    <feature-usage>
+      <uses-feature name="Device.captureVideo" required="true"/>
+      <uses-feature name="Device.pickFile" required="true"/>
+      <uses-feature name="WebAPI" required="true"/>
+    </feature-usage>
+    <built-by name="pac" version="1.42.1"/>
+  </control>
+</manifest>
